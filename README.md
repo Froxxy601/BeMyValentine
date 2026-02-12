@@ -4,13 +4,10 @@ A cute and slightly chaotic interactive Valentine’s Day webpage built with **R
 
 Clicking **"No"** makes the **"Yes"** button grow bigger and bigger until there’s only one correct choice left 😈💕
 
----
 
-## 🌸 Live Demo
 
-👉 (Add your GitHub Pages link here)
 
----
+
 
 ## ✨ Features
 
